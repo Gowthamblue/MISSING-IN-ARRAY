@@ -1,4 +1,5 @@
 // User function template for C++ IN GEEKS FOR GEEKS
+// By Using Not Gate
 class Solution {
   public:
     int missingNumber(vector<int>& arr) {
